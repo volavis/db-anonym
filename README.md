@@ -1,9 +1,20 @@
 # DB-Anonym
 
-Anonymisierungssoftware für relationale Datenbanken  
-Version 1.0, April 2025
+Dieses Projekt ist eine Anwendung zur Anonymisierung von Datenbanken.
+Es ermöglicht, sensible Daten wie Namen, Adressen oder Kundendaten sicher zu schützen, ohne dass dabei die Struktur der Datenbank verloren geht.
+
+Mit der Software können Daten so verfremdet werden, dass sie für Tests, Analysen oder Entwicklung genutzt werden können.
+Die Bedienung erfolgt über eine Benutzeroberfläche, in der passende Anonymisierungsregeln ausgewählt und konfiguriert werden können.
+
+**Unterstützte Datenbanken**
+
+* Microsoft SQL Server
+* Oracle
+* MySQL
 
 ---
+
+Version 1.0, April 2025
 
 ## Anleitung: Erweiterung der Software
 
