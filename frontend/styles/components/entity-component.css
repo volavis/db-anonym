@@ -1,0 +1,12 @@
+vaadin-details {
+  width: 100%;
+  background-color: var(--lumo-shade-20pct);
+}
+
+vaadin-grid {
+  margin-bottom: var(--lumo-space-s);
+}
+
+.entity-name-span {
+  font-weight: bold;
+}

@@ -1,0 +1,6 @@
+#warning-div {
+  width: 480px;
+  border-radius: var(--lumo-border-radius);
+  background-color: #FAFF64;
+  padding: 10px;
+}

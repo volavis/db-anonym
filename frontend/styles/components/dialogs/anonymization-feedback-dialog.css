@@ -1,0 +1,7 @@
+#anonymization-dialog-title {
+  font-weight: bold;
+}
+
+#anonymization-dialog-grid {
+  margin-top: var(--lumo-space-m);
+}

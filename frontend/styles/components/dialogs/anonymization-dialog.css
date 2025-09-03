@@ -1,0 +1,11 @@
+#dialog-title {
+  font-weight: bold;
+}
+
+#button-layout {
+  margin-top: var(--lumo-space-m);
+}
+
+#scroller-accordion {
+  margin-top: var(--lumo-space-m);
+}

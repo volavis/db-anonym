@@ -1,0 +1,13 @@
+#boolean-warning {
+  width: 480px;
+  border-radius: var(--lumo-border-radius);
+  background-color: #ff4242;
+  padding: 10px;
+}
+
+#warning-div {
+  width: 480px;
+  border-radius: var(--lumo-border-radius);
+  background-color: #FAFF64;
+  padding: 10px;
+}

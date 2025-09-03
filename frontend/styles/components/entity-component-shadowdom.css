@@ -1,0 +1,10 @@
+/* Changes in shadow DOM of EntityComponent */
+
+[part="summary-content"] {
+  width: 100%;
+  margin-right: var(--lumo-space-m);
+}
+
+[part="cell header-cell"] {
+  font-weight: bold;
+}

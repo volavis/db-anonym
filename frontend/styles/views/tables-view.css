@@ -1,0 +1,15 @@
+#schema-name {
+  font-weight: bold;
+}
+
+#entity-actions {
+  margin-top: var(--lumo-space-s);
+}
+
+#scroll-to-top-button {
+  background-color: var(--lumo-primary-color-50pct);
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 99;
+}

@@ -1,0 +1,18 @@
+#title-description {
+  font-weight: bold;
+}
+
+#column-layout {
+  margin: var(--lumo-space-m);
+  margin-top: var(--lumo-space-xl);
+}
+
+#connect-button {
+  margin-top: var(--lumo-space-l);
+}
+
+#exception-output {
+  color: var(--lumo-error-color);
+  margin-top: var(--lumo-space-m);
+  height: 100px;
+}

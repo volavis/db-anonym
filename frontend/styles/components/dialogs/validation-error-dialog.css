@@ -1,0 +1,7 @@
+#validation-dialog-title {
+  font-weight: bold;
+}
+
+#validation-dialog-grid {
+  margin-top: var(--lumo-space-m);
+}

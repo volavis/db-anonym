@@ -1,0 +1,7 @@
+#attribute-name-span {
+  font-weight: bold;
+}
+
+#option-container {
+  background-color: var(--lumo-contrast-20pct);
+}
