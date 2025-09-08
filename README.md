@@ -1,6 +1,6 @@
 # DB-Anonym
 
-Dieses Projekt ist eine Anwendung zur Anonymisierung von Datenbanken.
+Dieses Projekt ist eine webbasierte Anwendung zur Anonymisierung von Datenbanken.
 Es ermöglicht, sensible Daten wie Namen, Adressen oder Kundendaten sicher zu schützen, ohne dass dabei die Struktur der Datenbank verloren geht.
 
 Mit der Software können Daten so verfremdet werden, dass sie für Tests, Analysen oder Entwicklung genutzt werden können.
